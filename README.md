@@ -1,2 +1,4 @@
 # snake
-Learn project
+## Using technology
+- HTML
+- JS
